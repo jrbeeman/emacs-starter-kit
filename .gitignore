@@ -19,4 +19,5 @@ elim/
 elpa-to-submit/nxhtml/etc/schema/xhtml-loader.rnc~
 session*
 tramp
+org-clock-save.el
 \#*
